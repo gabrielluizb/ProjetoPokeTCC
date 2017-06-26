@@ -1,0 +1,28 @@
+c:\Users\Aluno\documents\visual studio 2012\Projects\PokeTCC\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDto\bin\Debug\prjDto.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDto\bin\Debug\prjDto.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDto\bin\Debug\log4net.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDto\bin\Debug\log4net.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDto\obj\Debug\prjDto.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDto\obj\Debug\prjDto.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDto\bin\Debug\prjDto.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDto\bin\Debug\prjDto.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDto\bin\Debug\log4net.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDto\bin\Debug\log4net.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDto\obj\Debug\prjDto.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDto\obj\Debug\prjDto.pdb
+E:\PokeTCC\prjDto\bin\Debug\prjDto.dll
+E:\PokeTCC\prjDto\bin\Debug\prjDto.pdb
+E:\PokeTCC\prjDto\bin\Debug\log4net.dll
+E:\PokeTCC\prjDto\bin\Debug\log4net.xml
+E:\PokeTCC\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+E:\PokeTCC\prjDto\obj\Debug\prjDto.dll
+E:\PokeTCC\prjDto\obj\Debug\prjDto.pdb
+C:\Users\Aluno\Documents\PokeTCC\prjDto\bin\Debug\prjDto.dll
+C:\Users\Aluno\Documents\PokeTCC\prjDto\bin\Debug\prjDto.pdb
+C:\Users\Aluno\Documents\PokeTCC\prjDto\bin\Debug\log4net.dll
+C:\Users\Aluno\Documents\PokeTCC\prjDto\bin\Debug\log4net.xml
+C:\Users\Aluno\Documents\PokeTCC\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\PokeTCC\prjDto\obj\Debug\prjDto.dll
+C:\Users\Aluno\Documents\PokeTCC\prjDto\obj\Debug\prjDto.pdb

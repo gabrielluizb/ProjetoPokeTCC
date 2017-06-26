@@ -1,0 +1,217 @@
+c:\users\aluno\documents\visual studio 2012\Projects\PokeTCC\PokeTCC\obj\Debug\PokeTCC.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\PokeTCC.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\PokeTCC.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\Antlr3.Runtime.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\EntityFramework.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\log4net.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\prjBll.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\prjDto.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\System.Web.Optimization.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\System.Web.Providers.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\WebGrease.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\prjDal.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\prjDil.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\prjBll.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\prjDto.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\log4net.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\EntityFramework.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\prjDal.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\bin\prjDil.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\obj\Debug\PokeTCC.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\PokeTCC\obj\Debug\PokeTCC.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\PokeTCC.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\PokeTCC.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\Antlr3.Runtime.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\EntityFramework.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\log4net.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\prjBll.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\prjDto.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\System.Web.Optimization.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\System.Web.Providers.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\WebGrease.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\prjDal.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\prjDil.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\prjBll.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\prjDto.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\log4net.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\EntityFramework.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\prjDal.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\bin\prjDil.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\obj\Debug\PokeTCC.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\obj\Debug\PokeTCC.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\PokeTCC\obj\Debug\PokeTCC.pdb
+H:\PokeTCC\PokeTCC\bin\PokeTCC.dll
+H:\PokeTCC\PokeTCC\bin\PokeTCC.pdb
+H:\PokeTCC\PokeTCC\bin\Antlr3.Runtime.dll
+H:\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.dll
+H:\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.dll
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.dll
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.dll
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.dll
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\PokeTCC\PokeTCC\bin\EntityFramework.dll
+H:\PokeTCC\PokeTCC\bin\log4net.dll
+H:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+H:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.WebForms.dll
+H:\PokeTCC\PokeTCC\bin\Microsoft.Web.Infrastructure.dll
+H:\PokeTCC\PokeTCC\bin\prjBll.dll
+H:\PokeTCC\PokeTCC\bin\prjDto.dll
+H:\PokeTCC\PokeTCC\bin\System.Web.Optimization.dll
+H:\PokeTCC\PokeTCC\bin\System.Web.Providers.dll
+H:\PokeTCC\PokeTCC\bin\WebGrease.dll
+H:\PokeTCC\PokeTCC\bin\prjDal.dll
+H:\PokeTCC\PokeTCC\bin\prjDil.dll
+H:\PokeTCC\PokeTCC\bin\prjBll.pdb
+H:\PokeTCC\PokeTCC\bin\prjDto.pdb
+H:\PokeTCC\PokeTCC\bin\log4net.xml
+H:\PokeTCC\PokeTCC\bin\EntityFramework.xml
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.xml
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.xml
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.xml
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.xml
+H:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+H:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\PokeTCC\PokeTCC\bin\prjDal.pdb
+H:\PokeTCC\PokeTCC\bin\prjDil.pdb
+H:\PokeTCC\PokeTCC\obj\Debug\PokeTCC.csprojResolveAssemblyReference.cache
+H:\PokeTCC\PokeTCC\obj\Debug\PokeTCC.dll
+H:\PokeTCC\PokeTCC\obj\Debug\PokeTCC.pdb
+E:\PokeTCC\PokeTCC\bin\PokeTCC.dll.config
+E:\PokeTCC\PokeTCC\bin\PokeTCC.dll
+E:\PokeTCC\PokeTCC\bin\PokeTCC.pdb
+E:\PokeTCC\PokeTCC\bin\Antlr3.Runtime.dll
+E:\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.dll
+E:\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.dll
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.dll
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.dll
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.dll
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\PokeTCC\PokeTCC\bin\EntityFramework.dll
+E:\PokeTCC\PokeTCC\bin\log4net.dll
+E:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.WebForms.dll
+E:\PokeTCC\PokeTCC\bin\Microsoft.Web.Infrastructure.dll
+E:\PokeTCC\PokeTCC\bin\prjBll.dll
+E:\PokeTCC\PokeTCC\bin\prjDto.dll
+E:\PokeTCC\PokeTCC\bin\System.Web.Optimization.dll
+E:\PokeTCC\PokeTCC\bin\System.Web.Providers.dll
+E:\PokeTCC\PokeTCC\bin\WebGrease.dll
+E:\PokeTCC\PokeTCC\bin\prjDal.dll
+E:\PokeTCC\PokeTCC\bin\prjDil.dll
+E:\PokeTCC\PokeTCC\bin\prjBll.pdb
+E:\PokeTCC\PokeTCC\bin\prjDto.pdb
+E:\PokeTCC\PokeTCC\bin\log4net.xml
+E:\PokeTCC\PokeTCC\bin\EntityFramework.xml
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.xml
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.xml
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.xml
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.xml
+E:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\PokeTCC\PokeTCC\bin\prjDal.pdb
+E:\PokeTCC\PokeTCC\bin\prjDil.pdb
+E:\PokeTCC\PokeTCC\obj\Debug\PokeTCC.csprojResolveAssemblyReference.cache
+E:\PokeTCC\PokeTCC\obj\Debug\PokeTCC.dll
+E:\PokeTCC\PokeTCC\obj\Debug\PokeTCC.pdb
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\PokeTCC.dll.config
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\PokeTCC.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\PokeTCC.pdb
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\Antlr3.Runtime.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\EntityFramework.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\log4net.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\prjBll.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\prjDto.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\System.Web.Optimization.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\System.Web.Providers.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\WebGrease.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\prjDal.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\prjDil.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\prjBll.pdb
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\prjDto.pdb
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\log4net.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\EntityFramework.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.Core.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\prjDal.pdb
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\bin\prjDil.pdb
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\obj\Debug\PokeTCC.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\obj\Debug\PokeTCC.dll
+C:\Users\Aluno\Documents\PokeTCC\PokeTCC\obj\Debug\PokeTCC.pdb

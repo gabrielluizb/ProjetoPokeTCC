@@ -1,0 +1,27 @@
+c:\Users\Aluno\documents\visual studio 2012\Projects\PokeTCC\prjDil\obj\Debug\prjDil.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDil\bin\Debug\prjDil.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDil\bin\Debug\prjDil.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDil\bin\Debug\log4net.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDil\bin\Debug\log4net.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDil\obj\Debug\prjDil.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjDil\obj\Debug\prjDil.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDil\bin\Debug\prjDil.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDil\bin\Debug\prjDil.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDil\bin\Debug\log4net.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDil\bin\Debug\log4net.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDil\obj\Debug\prjDil.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDil\obj\Debug\prjDil.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjDil\obj\Debug\prjDil.pdb
+E:\PokeTCC\prjDil\bin\Debug\prjDil.dll
+E:\PokeTCC\prjDil\bin\Debug\prjDil.pdb
+E:\PokeTCC\prjDil\bin\Debug\log4net.dll
+E:\PokeTCC\prjDil\bin\Debug\log4net.xml
+E:\PokeTCC\prjDil\obj\Debug\prjDil.dll
+E:\PokeTCC\prjDil\obj\Debug\prjDil.pdb
+C:\Users\Aluno\Documents\PokeTCC\prjDil\bin\Debug\prjDil.dll
+C:\Users\Aluno\Documents\PokeTCC\prjDil\bin\Debug\prjDil.pdb
+C:\Users\Aluno\Documents\PokeTCC\prjDil\bin\Debug\log4net.dll
+C:\Users\Aluno\Documents\PokeTCC\prjDil\bin\Debug\log4net.xml
+C:\Users\Aluno\Documents\PokeTCC\prjDil\obj\Debug\prjDil.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\PokeTCC\prjDil\obj\Debug\prjDil.dll
+C:\Users\Aluno\Documents\PokeTCC\prjDil\obj\Debug\prjDil.pdb

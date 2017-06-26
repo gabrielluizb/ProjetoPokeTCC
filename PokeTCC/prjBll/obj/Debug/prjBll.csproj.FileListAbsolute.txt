@@ -1,0 +1,52 @@
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\obj\Debug\prjBll.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\prjBll.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\prjBll.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\log4net.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\prjDal.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\prjDto.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\prjDil.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\prjDal.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\prjDto.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\log4net.xml
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\bin\Debug\prjDil.pdb
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\obj\Debug\prjBll.dll
+C:\Users\Aluno\Documents\Visual Studio 2012\Projects\PokeTCC\prjBll\obj\Debug\prjBll.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\prjBll.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\prjBll.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\log4net.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\prjDal.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\prjDto.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\prjDil.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\prjDal.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\prjDto.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\log4net.xml
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\bin\Debug\prjDil.pdb
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\obj\Debug\prjBll.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\obj\Debug\prjBll.dll
+C:\Users\Luiz Claudio\Desktop\Lucifer\Senai - trabalhos & provas\PokeTCC\prjBll\obj\Debug\prjBll.pdb
+E:\PokeTCC\prjBll\bin\Debug\prjBll.dll
+E:\PokeTCC\prjBll\bin\Debug\prjBll.pdb
+E:\PokeTCC\prjBll\bin\Debug\log4net.dll
+E:\PokeTCC\prjBll\bin\Debug\prjDal.dll
+E:\PokeTCC\prjBll\bin\Debug\prjDto.dll
+E:\PokeTCC\prjBll\bin\Debug\prjDil.dll
+E:\PokeTCC\prjBll\bin\Debug\prjDal.pdb
+E:\PokeTCC\prjBll\bin\Debug\prjDto.pdb
+E:\PokeTCC\prjBll\bin\Debug\log4net.xml
+E:\PokeTCC\prjBll\bin\Debug\prjDil.pdb
+E:\PokeTCC\prjBll\obj\Debug\prjBll.csprojResolveAssemblyReference.cache
+E:\PokeTCC\prjBll\obj\Debug\prjBll.dll
+E:\PokeTCC\prjBll\obj\Debug\prjBll.pdb
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\prjBll.dll
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\prjBll.pdb
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\log4net.dll
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\prjDal.dll
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\prjDto.dll
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\prjDil.dll
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\prjDal.pdb
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\prjDto.pdb
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\log4net.xml
+C:\Users\Aluno\Documents\PokeTCC\prjBll\bin\Debug\prjDil.pdb
+C:\Users\Aluno\Documents\PokeTCC\prjBll\obj\Debug\prjBll.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\PokeTCC\prjBll\obj\Debug\prjBll.dll
+C:\Users\Aluno\Documents\PokeTCC\prjBll\obj\Debug\prjBll.pdb
